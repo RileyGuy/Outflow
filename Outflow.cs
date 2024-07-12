@@ -15,7 +15,7 @@ public class Outflow : ResoniteMod
     public override string Name => "Outflow";
     public override string Author => "Cyro";
     public override string Version => typeof(Outflow).Assembly.GetName().Version.ToString();
-    public override string Link => "https://github.com/RileyGuy/Outflow";
+    public override string Link => "https://github.com/BlueCyro/Outflow";
     public static ModConfiguration? Config;
 
 
